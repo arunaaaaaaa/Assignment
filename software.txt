@@ -32,5 +32,12 @@
       </div>
     </div>
     <br>
+    <div id="container">
+      <div id="content">
+        <p>Name: Ajay Pranav Manickam Karthikeyan</p>
+        <p> Github ID: Ajayy09 </p>
+        <p> Discord ID: Ajay#4404 </p>
+      </div>
+    </div>
   </body>
 </html>

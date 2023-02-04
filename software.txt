@@ -47,5 +47,13 @@
         <p> Discord ID: RaviTeja#5710  </p>
       </div>
     </div>
+<br>
+<div id="container">
+      <div id="content">
+        <p>Name: Eswar Teja </p>
+        <p> Github ID: eswar489 </p>
+        <p> Discord ID: eswar#5260  </p>
+      </div>
+    </div>
   </body>
 </html>
